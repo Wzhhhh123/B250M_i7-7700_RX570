@@ -16,7 +16,7 @@ CPU | Intel i7 7700
 无线网卡  | Broadcom BCM964302CS
 SSD  | 	M2 接口的 NVME协议 HS-SSD-C2000Pro 256G
 系统  | macOS Monterey 12.4
-引导 | 	OpenCore 0.6.3
+引导 | 	OpenCore 0.8.0
 机型 | iMac18,1、iMac18,2、iMac18,3
 
 
