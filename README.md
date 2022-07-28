@@ -1,17 +1,23 @@
 # B250M_i7-7700_RX570
 
-名称	型号版本
-主板	MSI B250M BAZOOKA
-CPU	 Intel i7 7700
-核显	Intel HD Graphics 630
-独显	AMD RX570 4G
-声卡	ALC892
-网卡	Realtek RTL8168H/8111H PCI Express Gigabit Etherne
-无线网卡 Broadcom BCM964302CS
-SSD	M2 接口的 NVME协议 HS-SSD-C2000Pro 256G
-系统	macOS Monterey 12.4
-引导	OpenCore 0.6.3
-机型	iMac18,1、iMac18,2、iMac18,3
+
+
+
+
+
+名称  | 型号版本  
+|:-------------:|:-------------:|
+主板  | MSI B250M BAZOOKA  
+CPU | Intel i7 7700
+核显 | Intel HD Graphics 630
+独显 | AMD RX570 4G
+声卡 | ALC892
+网卡 | Realtek RTL8168H/8111H PCI Express Gigabit Etherne
+无线网卡  | Broadcom BCM964302CS
+SSD  | 	M2 接口的 NVME协议 HS-SSD-C2000Pro 256G
+系统  | macOS Monterey 12.4
+引导 | 	OpenCore 0.6.3
+机型 | iMac18,1、iMac18,2、iMac18,3
 
 
 <img width="597" alt="截屏2022-06-28 10 44 21" src="https://user-images.githubusercontent.com/59770581/176080633-61f1c869-85c1-4a2d-b64b-2c155bddec5e.png">
