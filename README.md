@@ -17,4 +17,5 @@ SSD	M2 接口的 NVME协议 HS-SSD-C2000Pro 256G
 <img width="414" alt="截屏2022-07-28 14 03 54" src="https://user-images.githubusercontent.com/59770581/181432137-40244056-9283-41bc-971d-75b54390dd53.png">
 <img width="869" alt="截屏2022-07-28 14 11 05" src="https://user-images.githubusercontent.com/59770581/181433128-b3722840-76bb-43b7-95f8-0929ffdf492d.png">
 # 功能一切正常 ，睡眠稳定，设定鼠标键盘不唤醒设备，按开机键唤醒设备
-![Uploading 截屏2022-07-28 14.15.26.png…]()
+<img width="987" alt="截屏2022-07-28 14 20 28" src="https://user-images.githubusercontent.com/59770581/181434623-d40ad625-9ab6-4878-b39a-1babad2ed7b4.png">
+
